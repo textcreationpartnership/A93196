@@ -1,0 +1,252 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short but full discourse of the power of parliaments and how far their intrusted power may extend. As also the great interests of the King therein, acknowledged heretofore in all ages. Sent from the army to a worthy friend in London, and writen there by a learned divine, who upon some high imployments hath been conversant late amongst them.</title>
+            <author>Learned divine.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93196</idno>
+            <idno type="STC">Wing S3564</idno>
+            <idno type="STC">Thomason E399_34</idno>
+            <idno type="STC">ESTC R201733</idno>
+            <idno type="EEBO-CITATION">99897890</idno>
+            <idno type="PROQUEST">99897890</idno>
+            <idno type="VID">135334</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93196)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135334)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2556:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short but full discourse of the power of parliaments and how far their intrusted power may extend. As also the great interests of the King therein, acknowledged heretofore in all ages. Sent from the army to a worthy friend in London, and writen there by a learned divine, who upon some high imployments hath been conversant late amongst them.</title>
+                  <author>Learned divine.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Dated at end: July 20.1647.</note>
+                  <note>Annotation on Thomason copy: "July 24th".</note>
+                  <note>Reproduction of original in Dr. Williams's Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Monarchy --  Great Britain --  Early works to 1800.</term>
+               <term>Prerogative, Royal --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135334:1"/>
+            <!-- PDF PAGE 12 -->
+            <pb facs="tcp:135334:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 12 -->
+            <p>A SHORT BUT FULL DISCOVRSE Of the POWER of PARLIAMENTS: AND How far their intruſted power may extend.</p>
+            <p>AS ALSO The great Intereſts of the KING therein, acknowledged heretofore in all Ages.</p>
+            <p>SENT From the ARMY to a worthy Friend in <hi>London,</hi> and writen there by a learned Divine, who upon ſome high Imployments hath been converſant late amongſt them.</p>
+            <p>Printed in the Yeare 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:135334:2"/>
+            <!-- PDF PAGE 13 -->
+            <head>A ſhort diſcourſe of the power of Par<g ref="char:EOLhyphen"/>liaments written in a letter from the Army to his noble friend in London, by a well-willer to Parliaments.</head>
+            <p>IT is not with me, (noble Sir) as with many in theſe times, who onely ſtudy to make a wicked thing ſeem good, by cloa<g ref="char:EOLhyphen"/>thing it in a garb of the neweſt faſhion, and ſtrive to cover a falſe heart with an eloquent (though flattering) tongue; but all I ſhall endeavour in this diſcourſe, is to ſet forth truth in ſincerity, even in its naturall colours, and not cloath it with a painted elo<g ref="char:EOLhyphen"/>quence; onely that it may not be known. To come to purpoſe, I muſt intreat your patience, while I preſent to your view a rough drawn Map, diſcovering the juriſdiction of the high Court of Parliament.</p>
+            <p>But firſt I ſhall doe my endeavour to ſatisfie them that hold hold the Houſe of Lords to be only intereſſed; ſo that the Houſe of Commons may be thought to make an in-rode upon their pri<g ref="char:EOLhyphen"/>viledges: Let thoſe know, that <hi>anima eſt tota in toto &amp; teta in quali<g ref="char:EOLhyphen"/>bet parte:</hi> and judicature is the ſoule of this great compacted bo<g ref="char:EOLhyphen"/>dy: the times were when both Houſes ſate in one place, and had one Speaker: And ſince the power of judicature muſt be founded upon a preparatory impeachment, and that muſt be framed by the Commons Houſe, we may juſtifie them not guilty of extrajudiciall proceedings.</p>
+            <p>The Lords are under his Majeſty the chiefe, but the Commons muſt be admitted for members; and the help of thoſe doth much advantage the preſervation of the whole compound. Having thus cleared this objection, and ſhewn that the Commons Houſe hath a power of judicature, let us proceed to ſee how far it will extend: For the better effecting of it, I thinke it firſt neceſſary to give a deſcription or definition of them, which in briefe is this.</p>
+            <p>
+               <pb n="3" facs="tcp:135334:2"/>
+               <!-- PDF PAGE 13 -->
+The Houſe of Commons is neither more nor leſſe then the Re<g ref="char:EOLhyphen"/>preſentative body of the people elected and ſent up by the ſeveral Shires and Burroughes reſpectively, (and joyned with the other two eſtates) are of capacity to make, alter, and abrogate lawes as occaſion ſhall require, to heare and relieve the grievances of the people, and to reform what is amiſſe in the Common wealth.</p>
+            <p>In this deſcription you may plainly ſee two bodies of the peo<g ref="char:EOLhyphen"/>ple, the Repreſentative and Repreſented, which together make up the body of the Common-wealth: Of the latter, every free-born Engliſhman is a member. Now for any man to imagine, that the ſhadow is more worthy then the ſubſtance; the Repre<g ref="char:EOLhyphen"/>ſentative then the Repreſented; or the Houſe of Commons to be more valuable or conſiderabl, then the body for whom they ſerve, is all one as if they ſhould affirm, that an Agent or Embaſſadour from a Prince, hath the ſame or more authority then the Prince himſelfe, which I preſume no rationall man will allow. I aſſure you, that in this I goe not about to raiſe diviſion between the people and their Agents: for they ſhould be linked together by common intereſt, and mutuall reſpect of common preſervation; yet thus much I cannot forbeare to intimate, that the one is but a ſervant of the other: the Commons Houſe to the people, as be<g ref="char:EOLhyphen"/>ing elected by them to provide for their well-fare and freedomes againſt all in-bred tyranny, or forraigne invaſion; which by rea<g ref="char:EOLhyphen"/>ſon of their number they cannot doe conveniently in their owne perſons, without hazard both of confuſion &amp; deſolation. Theeves and murderers taken <hi>in flagrante delicto,</hi> in the very act of a hey<g ref="char:EOLhyphen"/>nous crime, are not more hardly dealt withall; for the cauſe is declared before they are committed.</p>
+            <p>
+               <label>Object.</label> Some may ſay, How ſhall we mend our ſelves ſince we have given our ſelves, lives and liberties, properties and all into the Parliaments power?</p>
+            <p>
+               <label>Anſw.</label> It is anſwered, that this free and abandoned courſe of ours, whereby they are intruſted with all that is deare unto us, ought rather to oblige them to a tender and conſcientious care of the diſpenſation of that power: For the Soveraigne and Legiſla<g ref="char:EOLhyphen"/>tive power (now uſed) is not lent them for the ruine and deſtru<g ref="char:EOLhyphen"/>ction of our lawes and liberties, but for edification and ſtrengthe<g ref="char:EOLhyphen"/>ning of the ſame in particular: and the abuſe and over-flowing
+<pb n="4" facs="tcp:135334:3"/>
+               <!-- PDF PAGE 14 -->of this power is odious to God and man, as degenerating, and Vi<g ref="char:EOLhyphen"/>per-like tearing out the bowels of them, who gave them power, onely to attain to ſome ambitious ends.</p>
+            <p>
+               <label>Object.</label> Yes but ſome will ſay, the Parliament have a power a<g ref="char:EOLhyphen"/>bove the Law, and ſo cannot exceed or over-flow.</p>
+            <p>
+               <label>Anſw.</label> I anſwer, they have no power but what they derive from others: Now no man can give that to another which him<g ref="char:EOLhyphen"/>ſelfe hath not: for it is an old and moſt certain Maxime, That <hi>quicquid efficit tale, eſt magis tale.</hi> Now the King from whom they doe and ought to derive all the power they have, if it be above the Law, ſurely his is much more above the Law, though he ac<g ref="char:EOLhyphen"/>knowledges the contrary even now. For it is a ſure Axiome, that <hi>Dignitas materiati deſumitur ex dignitate materiae.</hi> Beſides, did ever any man ſee in this (or indeed in any other) Kingdome, a Parlia<g ref="char:EOLhyphen"/>ment called without the Kings Writ and peculiar command, by the people or Kingdome they ſo much talk of? And being ſum<g ref="char:EOLhyphen"/>moned by his Writ, they come to conſult and give him counſell, not to controll or command him. Nay, their power is ſo farre from being above Law, that they have not power to make a law without the Kings conſent. Nay further yet, without the Kings additional power they are like ſo many ciphers without a figure, which have no value, are of no force.</p>
+            <p>In the tenth yeare of <hi>Rich.</hi> the 2. a Parliament was called to ſit at <hi>Weſtminſter,</hi> which gave the King ſome diſcontent, inſo<g ref="char:EOLhyphen"/>much that he went away from them, but he had not been long abſent, when the Lords and Commons ſent Commiſſioners to him, to deſire him to return. For (ſaid they) if your Majeſty ſhould abſent your ſelfe 40. dayes, we ſhould be forced <hi>abſque domigere regis,</hi> to return to our own homes. <hi>Heu! quantum mutatus ab illo?</hi>
+            </p>
+            <p>It is an excellent Maxime, and worth obſervation in theſe law<g ref="char:EOLhyphen"/>leſſe times, <hi>melius ſub iniquiſſima lege, quam ſub aequiſſimo arbitrio vi<g ref="char:EOLhyphen"/>vere.</hi> It is better to live under a rigorous and unjuſt law, then an arbitrary government, though juſt; the reaſon is, becauſe by the firſt he is at a certainty, and knowes what to truſt to; the later leaves him uncertain in or to all things, but onely danger.</p>
+            <p>The <hi>Engliſh Nation</hi> is ſenſible of nothing more then the breach of their liberties, the violence offered to the freedome of their perſons, and unjuſt and illegall impoſitions upon their eſtates, witneſſe <hi>Magna Charta</hi> 30, times confirmed by the Princes of this
+<pb n="5" facs="tcp:135334:3"/>
+               <!-- PDF PAGE 14 -->Iſland. Let no man dream then that the Prince may trench bold<g ref="char:EOLhyphen"/>ly thereon without check: for ſuch conceit doth but aggravate the offence. For whatſoever devoureth his own kind, we juſtly account unnatural; and heart-burning is eaſily kindled, when our own fellows begin to dominiere over us. <hi>Firmiſſimum Imperium, quo obedientes gaudent;</hi> that government under which the people rejoyce, and live cheerfully, is moſt ſafe and durable.</p>
+            <p>It is a ſad caſe that a member of the body repreſented, a freeborn ſubject, of life &amp; converſation without juſt exception, ſhould con<g ref="char:EOLhyphen"/>trary to the tenor of <hi>Magna Charta,</hi> contrary to the <hi>Petition of Right,</hi> yea and <hi>Scripture</hi> it ſelfe, ſhould be impriſoned without ſhewing cauſe (as many have been) by a Parliament profeſſing reformation profeſſing defence of lawes and liberties, and with<g ref="char:EOLhyphen"/>out any urgent or apparent neceſſity of State enforcing it, it is a riddle to me beyond any thing this monſtrous and degenerate age hath brought forth. Thoſe Rulers and Rules of juſtice at firſt or<g ref="char:EOLhyphen"/>dained for our comfort, preſervation and liberty, are now per<g ref="char:EOLhyphen"/>verſly wreſted to enſlave, ruine and deſtroy. Surely, when after A<g ref="char:EOLhyphen"/>ges ſhall ponder and diſcuſſe this proceeding in cold and ſober blood, in a deliberate and rationall conſideration, they will be a<g ref="char:EOLhyphen"/>ſhamed to own the actors for their Parents or predeceſſors; nay, it is to be feared, that the ſtones out of the now modeſt walls, will riſe in judgment one day againſt the abuſers of the truſt commit<g ref="char:EOLhyphen"/>ted to them, much diſhonour will ariſe to the Parliament in the breach of the known law <hi>Magna Charta,</hi> which they ſay is but ſuſpended not abrogated, that they provide for generations, and have not time to attend particular grievances. This may ſatisfie men of a ſhallow capacity, and ſmall underſtanding, or ſuch as ſuck profit under their commands. None but the mad would yeeld obedience to them that are regardleſſe of their lawes and liberties, or negligent of the means of their ſubſiſtance, lively hood and ſafety, the main ends for which they were convened, and not to provide Offices for themſelves. <hi>Omne imperium in co<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſenſu &amp; aſſenſis parentium fundatur,</hi> all lawfull Empire, or Soveraigne com<g ref="char:EOLhyphen"/>mand hath its baſis or foundation in the conſent, approbation &amp; good liking of the people. Is any ſo abſurd to expect good li<g ref="char:EOLhyphen"/>king from thoſe who daily ſee themſelves abuſed in their perſons, liberties or eſtates, nay almoſt ruined in all, hopel<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe of <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>edreſſe or remedy, when no petition from few hands or many wi<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> b<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e accepted, without great friends in the Houſe, ſo that there wa<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s
+<pb n="6" facs="tcp:135334:4"/>
+               <!-- PDF PAGE 15 -->but a good occaſion to be tendred for the delivery of them from that condition under which they mourn and ſigh. For men toucht to the quick in their liberties and means of living, do naturally in<g ref="char:EOLhyphen"/>cline to ſhake off all <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onds of obedience, and to caſt the blame of their ſufferings upon the authors, as falſe to their truſt, judging them uncapable of the great weight of authority committed to them; and being ſtung with a lively ſenſe of their loſt freedoms and means of ſubſiſting, will by ſome ſudden attempt, endevour the repairing thereof, the moſt ill that can happen cannot reduce them to a worſe condition then they are in.</p>
+            <p>I cannot but be very ſenſible that I have incurred the miſ-for<g ref="char:EOLhyphen"/>tune to fall under the miſapprehenſions of divers, who cut of the premi<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es will conclude I goe about to alienate all men from the Parliament but knowing my owne integrity that I am altogether cleane from the guilt of ſuch a thought, I paſſe by them as not worth the taking notice of, much leſſe the anſwering and onely make the Apollogy for my ſelfe, as one lately did, I will as neare as I can remember, doe it in his own words.</p>
+            <p>
+               <hi>I muſt confeſſe tis no way pleaſing to mee to diſpute the power either of a King or of a Parliament, but had I fortunes of mine owne; ſo farre as thoſe would reach, I would not urge propriety againſt my So<g ref="char:EOLhyphen"/>veraignes commands, and no man ought to complaine of my grievance but my ſelfe: and if I were content to loſſe that which the Subjects li<g ref="char:EOLhyphen"/>berty cals</hi> meum, <hi>I hope it is no prejudice to that it cals</hi> trum. <hi>But when I look on the generall cauſe (as at this time) it is otherwiſe: ther<g ref="char:EOLhyphen"/>fore I hold every man bound to lay particular caſes aſide, and ſacrifice his beſt indevours, for a timely compoſure of theſe generall and unſea<g ref="char:EOLhyphen"/>ſonable diſtractions, and the beſt way I could think on, is this, viz. Nei<g ref="char:EOLhyphen"/>ther for private ends on the one ſide, to flatter the King, by giving him more power then the Law hath ſetled in him, nor for by-reſpects on the other ſide, to abate the Kings due, and give it to the Parliament; but with Allegiance to the one, and ſubmiſſion to the other (as neer as I can) give unto both their rights.</hi>
+            </p>
+            <p>Having therefore ſpoken thus much, I cannot but ſay ſome<g ref="char:EOLhyphen"/>thing of the Kings power, although, as I ſaid before, it is no plea<g ref="char:EOLhyphen"/>ſing Subject. See what King <hi>James</hi> ſaith: <hi>Kings are not onely Gods Lieutenants upon earth, and ſit upon Gods Throne, but by God himſelfe they are called Gods.</hi> If Kings be Gods Lieutenants, they have their power of God, and they that reſiſt the power or Or<g ref="char:EOLhyphen"/>dinance
+<pb n="7" facs="tcp:135334:4"/>
+               <!-- PDF PAGE 15 -->of God, receive to themſelves damnation <hi>Rom.</hi> 13. But you may ſee this better explained by King <hi>James. Kings are juſt<g ref="char:EOLhyphen"/>ly called Gods; for that they exerciſe a manner or reſemblance of Di<g ref="char:EOLhyphen"/>vine power upon earth, if you will confider the attributes of God, you ſhall ſee how they agree in the perſon of a King. God hath power to de<g ref="char:EOLhyphen"/>ſtroy or create, make or unmake at his pleaſure, to give life or ſend death, to judge all, and to be judged or accountable to none, to raiſe low things, and to make high things low at pleaſure, and to God are both ſoule and body due: The like power have Kings, they make and unmake their Subjects, they have power of raiſing and caſting down, of life and death, Judges over all the Subjects, and in all cauſes, yet accountable to none but God only. They have power to exalt low things, and abaſe the high, and make of their Subjects like men at the Cheſſe, a Pawn to take a Bi<g ref="char:EOLhyphen"/>ſhop or a Knight, and to cry up or down any of their Subjects as they do their money, and to the King is due both the affections of the Soule, and the ſervice of the body of their Subjects.</hi>
+            </p>
+            <p>But now in theſe our times, we muſt diſtinguiſh between the ſtate of Kings in their firſt original, and between the ſtate of ſet<g ref="char:EOLhyphen"/>led Kings and Monarchs that govern in civill Kingdomes. In the firſt originall of Kings ſome had their beginning by Conqueſt, &amp; ſome by election of the people: yet ſo ſoon as Kingdom<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s be<g ref="char:EOLhyphen"/>gan to be ſetled in civility &amp; policy, then did they <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et down their mindes by Laws (which are properly made by the King onely) but at the requeſt of the people, the Kings Gr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt being obtained thereunto (for of old <hi>Le Roy<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s' aviſera</hi> was ſufficient to daſh all the indevours of the Commons.)</p>
+            <p>To conclude this point with King <hi>James</hi> his own words, touching the power of Kings; <hi>It is an axiome in Divinity, that to diſpute what God may do is blaſphemy, but</hi> q<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id vult Deus <hi>the divines may lawfully and doe frequently diſpute and diſcuſe, for to diſpute a</hi> poſſe ad eſſe <hi>is both Logicke and divinity, ſo it is ſedition in Sub<g ref="char:EOLhyphen"/>jects to diſpute what a King may doe in the height of his power. But juſt Kings will ever be willing to declare what they will do, and to make and execute good Laws.</hi>
+            </p>
+            <p>Give me leave to proceed a little farther to plough with his Heifer (pardon the expreſſion.) <hi>Wee have more good Lawes than are well executed (y<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> gif<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of Parliaments, who are ordained for making of Laws, and therefore their in<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>itu<g ref="char:EOLhyphen"/>tion ought not to be abuſed, in holding them for any me<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s particulars, for is a par<g ref="char:EOLhyphen"/>liament is the honourableſt and higheſt judgement in the land (as being the Kings head Court) if it be well uſed, which is by making of good Lawes i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it: So it <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the unjuſteſt judgement-Seate that may be, being abuſed to m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns particulars, irr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vo<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ble
+<pb n="8" facs="tcp:135334:5"/>
+                  <!-- PDF PAGE 16 -->decrees againſt particular parties being given therein under coulour of generall laws and ofte<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>times the States not knowing themſelves whom they hurt: And therefore no Parliaments ought to be holden <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> or neceſsity of new Laws, which w<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uld be but ſeld<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: for few Lawes and well put in execution are beſt to a well ruled Common<g ref="char:EOLhyphen"/>wealth.</hi>
+            </p>
+            <p>Thus have I indeavoured to the utmoſt extent of my poore power to give you ſatisfaction in your demands, which I have done in as moderate a manner as I could poſſibly deviſe, inſo<g ref="char:EOLhyphen"/>much that I hope I ſhall diſpleaſe none (if it have the illuck to be ſeene in publique.) I would now certifie you of ſome newes (but not reiterated or frivolous) only the intricate cloſeneſſe in the management of affairs hinders me, for I am altogether ama<g ref="char:EOLhyphen"/>zed and aſtoniſhed, as not knowing how to underſtand any thing for it muſt be another <hi>Oedipus</hi> that will unfold this <hi>Sphynx;</hi> but I pray God to divert his judgements that hang over our heads, that theſe clouds may not raine downe on us another ſhoure of blood. God in mercy looke upon this poore diſtracted Land and ſend a happy and ſpeedy union, that all differences may ceaſe, and warre may no more bee heard in our Gates, that all good men will ſeeke grace and inſue it: Let <hi>Achitophels</hi> plot and councell miſcheifs, let <hi>Sanballats</hi> mocke, let <hi>Rabſhekas</hi> raile and blaſpheme and ſeducers every day wax worſe and worſe, yet <hi>magna eſt ve<g ref="char:EOLhyphen"/>ritas &amp; praevalebit:</hi> the wayes of the wicked though for a time they may proſper, yet they ſhall never be bleſſed.</p>
+            <p>
+               <hi>Sir,</hi> being infinitly obliged to you, and honouring you much for your worth and excellent parts, curſorily and heartily, I have written this in anſwer to your demands, not intending thereby to reprove or revile, or derogate from any power, but onely to lay open that all the World may know how far the intruſted power will extend; and if this give you any ſatisfaction, I have what I deſire, If you doubt of the truth of any thing, I hope I am able to make all here good by faithfull and authenticke Records, or Teſtimonie of ſuch as are worthy of truſt.</p>
+            <p>I pray you keep it for your own uſe only, for I ſhould be loath any but a friend ſee it, it is ſo rudly done, but I dare ſay truly and faithfully. Thus praying earneſtly to God for a happy and ſweet c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſure of theſe miſerable diſtractions and differences, deſiring you that at your leyſure you would be pleaſed to let me heare from you, and that you would ſend me the newes of your parts. I remain.</p>
+            <closer>
+               <dateline>
+                  <date>July 20. 1647.</date>
+               </dateline>
+               <signed>Your poore friend and obliged Servant.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
